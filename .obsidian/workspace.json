@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f362730baae4a999",
+        "id": "36f3bb434e8044c2",
         "type": "tabs",
         "children": [
           {
-            "id": "2cfafb32af052842",
+            "id": "f4bddc41d359d8e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "story/game story.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "game story"
+              "title": "New tab"
             }
           }
         ]
@@ -188,33 +184,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "2cfafb32af052842",
+  "active": "f4bddc41d359d8e3",
   "lastOpenFiles": [
+    "Act 5 (ending).md",
     "Game structure/act system.md",
-    "story/game story.md",
+    "Game structure/game genre.md",
+    "Game structure/The main menu/The main menu.md",
+    "story/Act 1-6/game story.md",
+    "story/Act 1-6/Act 6 (secret ending)/End 5 (secret).md",
+    "story/game endings.md",
+    "Game structure/The main menu/decision menu.md",
     "Game structure/charakter/Tagebuch.md",
+    "Game structure/charakter/decision making/story decisions.md",
+    "Game structure/charakter/decision making/desicion making.md",
+    "Game structure/The main menu/Untitled.md",
+    "Game structure/The main menu/settings.md",
+    "Game structure/The main menu",
+    "story/Act 1-6/Act 1 (beginning)/Act 1 (beginning).md",
+    "story/Act 1-6/Act 5 (ending)/End 1.md",
     "README.md",
-    "Game structure/charakter/Charakter menu.md",
-    "Untitled.canvas",
+    "story/Act 1-6/Act 1 (beginning)",
+    "story/Act 1-6/Act 5 (ending)/End 4.md",
+    "story/Act 1-6/Act 4 (climax)",
+    "story/Act 1-6/Act 3 (conflict)",
+    "story/Act 1-6/Act 2 (journey)",
+    "story/Act 1-6/Act 6 (secret ending)",
+    "story/Act 1-6/Act 5 (ending).md",
+    "story/Act 1-6/Act 5 (ending)",
+    "story/Act 1-6/Act 6 (s",
+    "story/Act 1-6/Act 5 (ending)/End 3.md",
+    "story/Act 1-6/Act 5 (ending)/End 2.md",
     "Game structure/charakter/Aussehen.md",
     "Game structure/charakter/Fähigkeiten.md",
-    "Game structure/Act system",
-    "story/Act 5 (ending).md",
-    "story/Act 4 (climax).md",
-    "story/Act 3 (conflict).md",
-    "story/Act 2 (jurney).md",
-    "story/Act 1 (beginning).md",
-    "story/Act ? (secret).md",
-    "Game structure/charakter/edeting system/Untitled.canvas",
-    "Game structure/charakter/edeting system",
-    "Game structure/story/Act ? (secret)",
-    "Game structure/story/Act 5 (ending)",
-    "Game structure/story/Act 4 (climax)",
-    "Game structure/story/Act 3 (conflict)",
-    "Game structure/story/Act 2 (jurney)",
-    "Game structure/story/Act 1 (beginning)",
-    "Game structure/game hook",
-    "2026-08-26.md",
-    "Game structure/charakter"
+    "Game structure/charakter/decision making",
+    "Game structure/ending system.md",
+    "story/Endings 1-5",
+    "Game structure/game hook.md",
+    "Game structure/charakter/Charakter menu.md",
+    "Untitled.canvas",
+    "story/Act 1-6/Act 4 (climax)/Act 4 (climax).md",
+    "Game structure/charakter/edeting system/Untitled.canvas"
   ]
 }

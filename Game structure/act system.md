@@ -9,4 +9,4 @@ Alle Acte:
 [[Act 3 (conflict)]]
 [[Act 4 (climax)]]
 [[Act 5 (ending)]]
-[[Act ? (secret)]]
+[[End 5 (secret)]]

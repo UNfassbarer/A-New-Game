@@ -1,0 +1,2 @@
+
+[[story decisions]] sind Entscheidungen welche darüber entscheiden welches Ende das spiel haben wird, sie werden gespeichert und können nach Spielabschluss aufgerufen werden um mit diesem neuen Spielstand andere Entscheidunegn treffen zu können.

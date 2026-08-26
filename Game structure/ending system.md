@@ -1,0 +1,1 @@
+Das Spiel besitzt 5 alternative Enden ([[game endings]]), jedes dieser Enden kann durch unterschiedliche Entscheidungen ereicht werden. Nach dem Abschluss eines Endes kann der Spieler das Spiel neu beginnen oder er springt zu einer  
