@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "36f3bb434e8044c2",
+        "id": "6b7bf3a2634c1fa3",
         "type": "tabs",
         "children": [
           {
-            "id": "f4bddc41d359d8e3",
+            "id": "099e39d352c86238",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "story/Act 1-6/game story.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "game story"
             }
           }
         ]
@@ -74,12 +78,22 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "7b6deeecf04d98aa",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent files"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 250.5
   },
   "right": {
     "id": "5f184d0ed8c36707",
@@ -181,11 +195,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "f4bddc41d359d8e3",
+  "active": "6efc66e10437ad30",
   "lastOpenFiles": [
+    "story/Act 1-6/Act 1 (beginning)/Act 1 (beginning).md",
+    "story/Act 1-6/Act 2 (journey)/Act 2 (jurney).md",
+    "Game structure/charakter/Charakter menu.md",
+    "Game structure/charakter/Fähigkeiten.md",
+    "Game structure/charakter/Tagebuch.md",
+    "story/Act 1-6/Act 5 (ending)/End 1.md",
+    "story/Act 1-6/Act 5 (ending)/End 2.md",
+    "Untitled.base",
     "Act 5 (ending).md",
     "Game structure/act system.md",
     "Game structure/game genre.md",
@@ -194,14 +217,11 @@
     "story/Act 1-6/Act 6 (secret ending)/End 5 (secret).md",
     "story/game endings.md",
     "Game structure/The main menu/decision menu.md",
-    "Game structure/charakter/Tagebuch.md",
     "Game structure/charakter/decision making/story decisions.md",
     "Game structure/charakter/decision making/desicion making.md",
     "Game structure/The main menu/Untitled.md",
     "Game structure/The main menu/settings.md",
     "Game structure/The main menu",
-    "story/Act 1-6/Act 1 (beginning)/Act 1 (beginning).md",
-    "story/Act 1-6/Act 5 (ending)/End 1.md",
     "README.md",
     "story/Act 1-6/Act 1 (beginning)",
     "story/Act 1-6/Act 5 (ending)/End 4.md",
@@ -213,16 +233,11 @@
     "story/Act 1-6/Act 5 (ending)",
     "story/Act 1-6/Act 6 (s",
     "story/Act 1-6/Act 5 (ending)/End 3.md",
-    "story/Act 1-6/Act 5 (ending)/End 2.md",
     "Game structure/charakter/Aussehen.md",
-    "Game structure/charakter/Fähigkeiten.md",
     "Game structure/charakter/decision making",
     "Game structure/ending system.md",
-    "story/Endings 1-5",
     "Game structure/game hook.md",
-    "Game structure/charakter/Charakter menu.md",
     "Untitled.canvas",
-    "story/Act 1-6/Act 4 (climax)/Act 4 (climax).md",
     "Game structure/charakter/edeting system/Untitled.canvas"
   ]
 }

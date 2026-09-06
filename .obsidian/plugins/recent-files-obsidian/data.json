@@ -1,0 +1,40 @@
+{
+  "recentFiles": [
+    {
+      "basename": "game story",
+      "path": "story/Act 1-6/game story.md"
+    },
+    {
+      "basename": "Act 1 (beginning)",
+      "path": "story/Act 1-6/Act 1 (beginning)/Act 1 (beginning).md"
+    },
+    {
+      "basename": "Act 2 (jurney)",
+      "path": "story/Act 1-6/Act 2 (journey)/Act 2 (jurney).md"
+    },
+    {
+      "basename": "Charakter menu",
+      "path": "Game structure/charakter/Charakter menu.md"
+    },
+    {
+      "basename": "Fähigkeiten",
+      "path": "Game structure/charakter/Fähigkeiten.md"
+    },
+    {
+      "basename": "Tagebuch",
+      "path": "Game structure/charakter/Tagebuch.md"
+    },
+    {
+      "basename": "End 1",
+      "path": "story/Act 1-6/Act 5 (ending)/End 1.md"
+    },
+    {
+      "basename": "End 2",
+      "path": "story/Act 1-6/Act 5 (ending)/End 2.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}
