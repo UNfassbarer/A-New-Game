@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6b7bf3a2634c1fa3",
+        "id": "d17dc74badda8ab0",
         "type": "tabs",
         "children": [
           {
-            "id": "099e39d352c86238",
+            "id": "0f9b380d9b53e6bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "story/Act 1-6/game story.md",
+                "file": "README.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "game story"
+              "title": "README"
             }
           }
         ]
@@ -42,7 +42,7 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 200
   },
   "right": {
     "id": "5f184d0ed8c36707",
@@ -179,8 +179,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "0a6f7820f4b27c0e",
+            "type": "leaf",
+            "state": {
+              "type": "llm-translator-sidebar",
+              "state": {},
+              "icon": "languages",
+              "title": "LLM Translator"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -196,48 +207,49 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "llm-translator:LLM Translator": false
     }
   },
-  "active": "6efc66e10437ad30",
+  "active": "0f9b380d9b53e6bc",
   "lastOpenFiles": [
+    "Game structure/charakter/decision making/side decisions.md",
+    "story/Act 1-6/game story.md",
+    "2026-09-16.md",
+    "Object.entries(app.viewRegistry.views)  .filter(([k]) => k.toLowerCase().includes(\"llm\") || k.toLowerCase().includes(\"translator\")).md",
+    "Untitled 1.canvas",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Untitled.canvas",
+    "Untitled 2.base",
     "story/Act 1-6/Act 1 (beginning)/Act 1 (beginning).md",
+    "story/game endings.md",
+    "Game structure/charakter/decision making/desicion making.md",
+    "Game structure/act system.md",
+    "Game structure/game genre.md",
+    "Game structure/charakter/Fähigkeiten.md",
+    "Game structure/The main menu/decision menu.md",
+    "Game structure/The main menu/settings.md",
+    "Game structure/The main menu/The main menu.md",
+    "Game structure/game hook.md",
+    "Game structure/ending system.md",
+    "story/Act 1-6/Act 5 (ending)/Act 5 (ending).md",
+    "story/charakter types 1-3/type 2 - pessimist.md",
+    "story/charakter types 1-3/type 1 - optimist.md",
+    "Game structure/charakter/decision making/story decisions.md",
+    "story/charakter types 1-3",
     "story/Act 1-6/Act 2 (journey)/Act 2 (jurney).md",
     "Game structure/charakter/Charakter menu.md",
-    "Game structure/charakter/Fähigkeiten.md",
     "Game structure/charakter/Tagebuch.md",
     "story/Act 1-6/Act 5 (ending)/End 1.md",
     "story/Act 1-6/Act 5 (ending)/End 2.md",
-    "Untitled.base",
-    "Act 5 (ending).md",
-    "Game structure/act system.md",
-    "Game structure/game genre.md",
-    "Game structure/The main menu/The main menu.md",
-    "story/Act 1-6/game story.md",
     "story/Act 1-6/Act 6 (secret ending)/End 5 (secret).md",
-    "story/game endings.md",
-    "Game structure/The main menu/decision menu.md",
-    "Game structure/charakter/decision making/story decisions.md",
-    "Game structure/charakter/decision making/desicion making.md",
-    "Game structure/The main menu/Untitled.md",
-    "Game structure/The main menu/settings.md",
     "Game structure/The main menu",
-    "README.md",
     "story/Act 1-6/Act 1 (beginning)",
-    "story/Act 1-6/Act 5 (ending)/End 4.md",
     "story/Act 1-6/Act 4 (climax)",
     "story/Act 1-6/Act 3 (conflict)",
     "story/Act 1-6/Act 2 (journey)",
     "story/Act 1-6/Act 6 (secret ending)",
-    "story/Act 1-6/Act 5 (ending).md",
-    "story/Act 1-6/Act 5 (ending)",
-    "story/Act 1-6/Act 6 (s",
-    "story/Act 1-6/Act 5 (ending)/End 3.md",
-    "Game structure/charakter/Aussehen.md",
-    "Game structure/charakter/decision making",
-    "Game structure/ending system.md",
-    "Game structure/game hook.md",
-    "Untitled.canvas",
     "Game structure/charakter/edeting system/Untitled.canvas"
   ]
 }

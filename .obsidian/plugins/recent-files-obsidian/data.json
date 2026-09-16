@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "side decisions",
+      "path": "Game structure/charakter/decision making/side decisions.md"
+    },
+    {
       "basename": "game story",
       "path": "story/Act 1-6/game story.md"
     },
@@ -9,16 +17,68 @@
       "path": "story/Act 1-6/Act 1 (beginning)/Act 1 (beginning).md"
     },
     {
+      "basename": "game endings",
+      "path": "story/game endings.md"
+    },
+    {
+      "basename": "desicion making",
+      "path": "Game structure/charakter/decision making/desicion making.md"
+    },
+    {
+      "basename": "act system",
+      "path": "Game structure/act system.md"
+    },
+    {
+      "basename": "game genre",
+      "path": "Game structure/game genre.md"
+    },
+    {
+      "basename": "Fähigkeiten",
+      "path": "Game structure/charakter/Fähigkeiten.md"
+    },
+    {
+      "basename": "decision menu",
+      "path": "Game structure/The main menu/decision menu.md"
+    },
+    {
+      "basename": "settings",
+      "path": "Game structure/The main menu/settings.md"
+    },
+    {
+      "basename": "The main menu",
+      "path": "Game structure/The main menu/The main menu.md"
+    },
+    {
+      "basename": "game hook",
+      "path": "Game structure/game hook.md"
+    },
+    {
+      "basename": "ending system",
+      "path": "Game structure/ending system.md"
+    },
+    {
+      "basename": "Act 5 (ending)",
+      "path": "story/Act 1-6/Act 5 (ending)/Act 5 (ending).md"
+    },
+    {
+      "basename": "type 2 - pessimist",
+      "path": "story/charakter types 1-3/type 2 - pessimist.md"
+    },
+    {
+      "basename": "type 1 - optimist",
+      "path": "story/charakter types 1-3/type 1 - optimist.md"
+    },
+    {
+      "basename": "story decisions",
+      "path": "Game structure/charakter/decision making/story decisions.md"
+    },
+    {
       "basename": "Act 2 (jurney)",
       "path": "story/Act 1-6/Act 2 (journey)/Act 2 (jurney).md"
     },
     {
       "basename": "Charakter menu",
       "path": "Game structure/charakter/Charakter menu.md"
-    },
-    {
-      "basename": "Fähigkeiten",
-      "path": "Game structure/charakter/Fähigkeiten.md"
     },
     {
       "basename": "Tagebuch",

@@ -13,16 +13,19 @@ Ausführlich:
 Du lebst dein Leben vor dich hin, als du eines Tages eine mysteriöse Nachricht bekommst geräht dein Innerstes in Aufruher, es heißt das dein Vater/Mutter/Geliebte(r)/Schwester/.... wiedergesehen worden sei, leider weit weg von deienm Zuhause in einem anderen Land.
 Nach einer schlaflosen Nacht mit traumatischen Träumen an eine Beerdigung und verblasste aber schöne Kindheitserinnerungen entschleißt du dich von Zuhause aufzubrechen um nach der vergessenen Vergangenheit zu suchen.
 
+Fokus auf:
+Vertrautmachen mit Spielmechanik,
+Einführung in die Geschichte,
+Interesse beim Spieler erwecken,
+
 [[Act 2 (jurney)]]
-...
+Du brichst auf um deine(n) geliebten ... zu suchen
 
 
 
 
-
-
-
-
-
-
-
+Fokus auf:
+Erkundung der Welt,
+Erweiterte Spielprinzipien erlernen,
+Erste Einblicke in Familiengeschehnisse,
+Erste Entscheidungen für alternative Enden

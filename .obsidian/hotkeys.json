@@ -15,5 +15,11 @@
       "key": "O"
     }
   ],
-  "switcher:open": []
+  "switcher:open": [],
+  "llm-translator:open-pdf-ollama-translator-sidebar": [
+    {
+      "modifiers": [],
+      "key": "F6"
+    }
+  ]
 }
